@@ -3,8 +3,7 @@
 			<strong> Hello World!</strong>
 			</p>
 			<p>
-				Welcome to my website, I hope you will find something helpful and interesting in here.
-				Feel free to leave a comment.
+				Welcome to my website.</br>
 				Ciao.
 			</p>
 				
