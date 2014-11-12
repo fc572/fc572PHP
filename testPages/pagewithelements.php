@@ -35,25 +35,25 @@
          <ul>
             <li>
                Item 1
-               <ul>
-                  <li>
-                     Sub Item 1.1
-                     <ol>
+         </li>
+            <ul>
+            <li>
+               Sub Item 1.1
+                    <ol>
                         <li>Sub Sub Item 1.1</li>
                         <li>Sub Sub Item 1.2</li>
-                     </ol>
-                  </li>
-                  <li>Sub Item 1.2</li>
-                  <li>Sub Item 1.3</li>
-               </ul>
-            </li>
+                    </ol>
+                </li>
+            <li>Sub Item 1.2</li>
+            <li>Sub Item 1.3</li>
+            </ul>
             <li>
                Item 2
-               <ul>
-                  <li>Sub Item 2.1</li>
-                  <li>Sub Item 2.3</li>
-               </ul>
-            </li>
+         </li>
+            <ul>
+                <li>Sub Item 2.1</li>
+                <li>Sub Item 2.3</li>
+            </ul>
             <li>Item 3</li>
          </ul>
       </div>
