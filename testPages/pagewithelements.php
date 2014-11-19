@@ -33,17 +33,13 @@
       I am going to add a list, check boxes and radio buttons that are the most likely elements you'll find on a web page <br/>
       <div id="leftcolumn">
          <ul>
-            <li>
-               Item 1
-         </li>
+            <li>Item 1</li>
             <ul>
-            <li>
-               Sub Item 1.1
+            <li>Sub Item 1.1</li>
                     <ol>
                         <li>Sub Sub Item 1.1</li>
                         <li>Sub Sub Item 1.2</li>
                     </ol>
-                </li>
             <li>Sub Item 1.2</li>
             <li>Sub Item 1.3</li>
             </ul>
