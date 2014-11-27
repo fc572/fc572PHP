@@ -68,15 +68,15 @@
          <div class="addBorder">
             Check box: 
             <form>
-               <input type="checkbox" id="vehicle" value="MotoBike"> My Bike is the fastest <br/>
-               <input type="checkbox" id="vehicle" value="Car"> My Car is the slowest <br/>
+               <input type="checkbox" id="chooseMe" value="HappyTesting"> Choose me using xPath <br/>
+               <input type="checkbox" id="notMe" value="IAmNotChosen"> I am lazy and unselected <br/>
             </form>
          </div>
          <div class="addBorder">
             Radio buttons: 
             <form>	
-               <input type="radio" name="feetFunction" value="Walk"> I like to walk <br/>
-               <input type="radio" name="feetFunction" value="Run">  I like to run <br/>
+               <input type="radio" name="dontpickMe" value="unHappyTesting"> I don't like to test<br/>
+               <input type="radio" name="pickMe" value="HappyTesting">  I like to TEST <br/>
             </form>
          </div>
       </div>
