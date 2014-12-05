@@ -101,7 +101,6 @@ body{
 
 
 .formInputFormat{
-	color: #3333CC;
 	border: 1px solid #000000;
 	border-radius:10px;
 	width:80%;
@@ -125,11 +124,4 @@ label{
 	margin-left:43%;
 	width:150px;
 	text-align:center;
-} 
-
-textarea
-{
-	padding: 0;
-	width: 100%;
-	background-color:#87AFC7;
 }

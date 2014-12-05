@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta name="description" content="My experience with webDriver">
-		<meta name="keywords" content="webDriver, C#, Java, selenium, fc572" />
+		<meta name="keywords" content="webDriver, Java, selenium, fc572" />
 		<meta name="author" content="Francesco, fc572"/>
 		<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 		<link href="../style.css" rel="stylesheet" type="text/css" >
@@ -14,7 +14,6 @@ $(document).ready(function(){
 		$(this).val($(this).val().replace(/   /g,' '));
 		$(this).attr('rows',$(this).val().split("\n").length); 
 		$(this).attr('cols',80);
-		$(this).attr('readonly', true);
 	})
 });</script>
 

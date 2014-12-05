@@ -1,6 +1,6 @@
 ﻿<?php include "../templates/top.php"?>
 
-		<strong> Setting up webdriver in a Java environment </strong>
+		<strong> A simple webdriver excercise </strong>
 			<p>
 			Just add exercise for retirieve key and text with reference to git project.
 			
