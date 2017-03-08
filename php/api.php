@@ -22,7 +22,7 @@
   function retrieveDataFromDb($key)
 		{			
 			$your_key = "";
-			$link = mysqli_connect("localhost", "fc572Comments", "Zarathustra1111", "fc572Database");
+			$link = mysqli_connect("localhost", "username", "password", "database");
 			if($link)
 			{
 				$query = "SELECT * FROM webdriverTest WHERE your_key = '" .$key ."'";
